@@ -1,0 +1,20 @@
+{
+"printArea": {
+    "topLeft": {
+      "x": 210,
+      "y": 512
+    },
+    "topRight": {
+      "x": 410,
+      "y": 510
+    },
+    "bottomRight": {
+      "x": 381,
+      "y": 764
+    },
+    "bottomLeft": {
+      "x": 242,
+      "y": 758
+    }
+  }
+}
