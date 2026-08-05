@@ -3,7 +3,6 @@ import Navbar from "@/components/Navbar";
 export default function Home() {
   return (
     <>
-      <Navbar />
       <main className="mx-auto max-w-7xl px-6 py-12">
         <section className="mb-12 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-neutral-900">
