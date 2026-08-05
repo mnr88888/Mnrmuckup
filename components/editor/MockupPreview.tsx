@@ -4,7 +4,7 @@ import { useEffect, useRef, useCallback } from "react";
 import * as PIXI from "pixi.js";
 import "pixi.js/advanced-blend-modes";
 import type { MockupConfig, LayerData, BlendMode } from "@/types";
-import type { BLEND_MODES } from "pixi.js";
+import { BLEND_MODES } from "pixi.js";
 import { useEditorStore } from "@/store/editorStore";
 
 const MESH_SEGMENTS = 16;
