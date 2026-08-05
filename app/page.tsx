@@ -1,4 +1,3 @@
-import Navbar from "@/components/Navbar";
 import MockupCard from "@/components/MockupCard";
 
 export default function Home() {
